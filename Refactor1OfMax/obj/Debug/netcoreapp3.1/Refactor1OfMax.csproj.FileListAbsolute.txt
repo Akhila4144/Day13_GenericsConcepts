@@ -1,0 +1,13 @@
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\bin\Debug\netcoreapp3.1\Refactor1OfMax.exe
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\bin\Debug\netcoreapp3.1\Refactor1OfMax.deps.json
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\bin\Debug\netcoreapp3.1\Refactor1OfMax.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\bin\Debug\netcoreapp3.1\Refactor1OfMax.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\bin\Debug\netcoreapp3.1\Refactor1OfMax.dll
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\bin\Debug\netcoreapp3.1\Refactor1OfMax.pdb
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\obj\Debug\netcoreapp3.1\Refactor1OfMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\obj\Debug\netcoreapp3.1\Refactor1OfMax.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\obj\Debug\netcoreapp3.1\Refactor1OfMax.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\obj\Debug\netcoreapp3.1\Refactor1OfMax.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\obj\Debug\netcoreapp3.1\Refactor1OfMax.dll
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\obj\Debug\netcoreapp3.1\Refactor1OfMax.pdb
+C:\Users\Raj Nani\source\repos\Refactor1OfMax\Refactor1OfMax\obj\Debug\netcoreapp3.1\Refactor1OfMax.genruntimeconfig.cache
