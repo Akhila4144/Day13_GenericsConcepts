@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\bin\Debug\netcoreapp3.1\MaxNumAt2ndPosition.exe
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\bin\Debug\netcoreapp3.1\MaxNumAt2ndPosition.deps.json
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\bin\Debug\netcoreapp3.1\MaxNumAt2ndPosition.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\bin\Debug\netcoreapp3.1\MaxNumAt2ndPosition.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\bin\Debug\netcoreapp3.1\MaxNumAt2ndPosition.dll
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\bin\Debug\netcoreapp3.1\MaxNumAt2ndPosition.pdb
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.dll
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.pdb
+C:\Users\Raj Nani\source\repos\MaxNumAt2ndPosition\MaxNumAt2ndPosition\obj\Debug\netcoreapp3.1\MaxNumAt2ndPosition.genruntimeconfig.cache
