@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\bin\Debug\netcoreapp3.1\MaxNumAt1stPosition.exe
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\bin\Debug\netcoreapp3.1\MaxNumAt1stPosition.deps.json
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\bin\Debug\netcoreapp3.1\MaxNumAt1stPosition.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\bin\Debug\netcoreapp3.1\MaxNumAt1stPosition.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\bin\Debug\netcoreapp3.1\MaxNumAt1stPosition.dll
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\bin\Debug\netcoreapp3.1\MaxNumAt1stPosition.pdb
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.dll
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.pdb
+C:\Users\Raj Nani\source\repos\MaxNumAt1stPosition\MaxNumAt1stPosition\obj\Debug\netcoreapp3.1\MaxNumAt1stPosition.genruntimeconfig.cache
