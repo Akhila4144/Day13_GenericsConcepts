@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.exe
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.deps.json
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.dll
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.pdb
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.dll
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.pdb
+C:\Users\Raj Nani\source\repos\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.genruntimeconfig.cache
