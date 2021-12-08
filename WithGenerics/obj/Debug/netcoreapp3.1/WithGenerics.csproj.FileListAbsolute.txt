@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\bin\Debug\netcoreapp3.1\WithGenerics.exe
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\bin\Debug\netcoreapp3.1\WithGenerics.deps.json
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\bin\Debug\netcoreapp3.1\WithGenerics.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\bin\Debug\netcoreapp3.1\WithGenerics.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\bin\Debug\netcoreapp3.1\WithGenerics.dll
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\bin\Debug\netcoreapp3.1\WithGenerics.pdb
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.dll
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.pdb
+C:\Users\Raj Nani\source\repos\WithGenerics\WithGenerics\obj\Debug\netcoreapp3.1\WithGenerics.genruntimeconfig.cache
